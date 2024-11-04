@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "titleUrl": "building-movie-recommendation-system",
+    "title": "Apa itu Arduino",
+    "description": "Untuk pemula.",
+    "date": "October 24, 2024",
+    "readTime": "15 min read",
+    "done": "No"
+  },
+  {
+    "id": "2",
+    "titleUrl": "creating-ai-customer-assistant-nextjs-gemini-api",
+    "title": "Mengapa bumi itu bulat",
+    "description": "pecinta konspirasi bumi datar, merapat.",
+    "date": "Oktober 28, 2024",
+    "readTime": "20 min read",
+    "done": "No"
+  },
+  {
+    "id": "3",
+    "titleUrl": "developing-ai-voice-assistant",
+    "title": "Mengapa kopi itu pahit",
+    "description": "Karena ga make susu.",
+    "date": "Oktober 30, 2024",
+    "readTime": "14 min read",
+    "done": "No"
+  },
+  {
+    "id": "4",
+    "titleUrl": "leading-orbeats-radio-club",
+    "title": "Mengapa ayam bisa bertelur",
+    "description": "tanya aja sama pecinta ayam.",
+    "date": "Oktober 30, 2024",
+    "readTime": "10 min read",
+    "done": "No"
+  }
+]
